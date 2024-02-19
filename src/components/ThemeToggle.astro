@@ -86,8 +86,9 @@ import Icon from './Icon.astro';
 		}
 
 		isDark() {
-			return document.documentElement.classList.contains('theme-dark');
-		}
+  // Si aucune classe de thème n'est définie, retournez true pour définir le thème sombre par défaut
+  return document.documentElement.classList.contains('theme-dark') || !document.documentElement.classList.contains('theme-light');
+}
 	}
 	customElements.define('theme-toggle', ThemeToggle);
 </script>
