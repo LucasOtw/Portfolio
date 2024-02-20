@@ -10,7 +10,6 @@ tags:
   - Type-Script
   - Figma
   - Firebase
-  - XCode
 ---
 
 ## 🎉 New Application
