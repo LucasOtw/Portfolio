@@ -1,45 +1,29 @@
-# Projet DoThings - Application de ToDoList 
+# Portfolio Personnel
 
-
-Ce projet, réalisé dans le personnel, vise à offrir une expérience utilisateur améliorée à travers la nouvelle app de ToDoList.
+Ce projet de portfolio personnel vise à présenter une expérience utilisateur améliorée à travers la mise en valeur de compétences et de projets réalisés.
 
 ## Aperçu du Projet
 
-DoThings est une app de ToDoList permettant de réaliser des tâches tout au long de la journée et de rester organisé.
+Le portfolio permet de mettre en avant des compétences, des projets personnels et professionnels, ainsi que de fournir des informations détaillées sur le parcours et les réalisations.
 
 ## Équipe de Développement
 
-Le projet DoThings a été réalisé par une équipe de 1 développeur :
-
-- [Lucas](https://github.com/LucasOtw)
-
+Le portfolio a été réalisé par Lucas Torres.
 
 ## Technologies Utilisées
 
-Le projet a été développé en utilisant les technologies suivantes :
-- React-Native : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="15" height="15"/> React
+Le portfolio a été développé en utilisant les technologies suivantes :
+- Astro : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="15" height="15"/> Astro
 - TypeScript : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="15" height="15"/> TypeScript
-- JavaScript : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="15" height="15"/> JavaScript
-
-
-
 
 ## Contribution au Projet
 
-Si vous souhaitez contribuer à DoThings, n'hésitez pas à :
-- Cloner le projet
-- Créer une branche pour votre fonctionnalité (`git checkout -b fonctionnalite/nom`)
-- Commiter vos modifications (`git commit -m 'Ajout de fonctionnalité'`)
-- Pusher sur la branche (`git push origin fonctionnalite/nom`)
-- Créer une Pull Request
-
-Votre contribution est la bienvenue !
+Le projet est privé et n'est pas amené à évoluer grâce à la communauté
 
 ## Comment Utiliser
 
-Pour utiliser DoThings, vous pouvez :
-- Attendre que l'application soit disponible sur l'AppStore ou le PlayStore
+Le portfolio est destiné à présenter le parcours, les compétences et les projets. Il peut être consulté en ligne via le lien suivant : https://portfolio1-lucasotw.vercel.app
 
 ## Licences
 
-Ce projet est open-source et ne génère pas de profits
+Ce portfolio est privé et ne génère pas de profit
