@@ -11,4 +11,22 @@ tags:
   - Doxygen
 ---
 
-Only a few months left before discovering the new projects!
+## 🎉 New Game
+
+> 
+
+Discover a brand new sudoku game in C available for everyone to kill time in transport or just because you are a sudkou master. The project was developed in several stages, including a mock-up, generation of documentation and the carrying out of unit tests.
+
+ 
+
+### ⏎ Feedback
+
+Do not hesitate to send feedback by email if you encounter bugs or if you think that improvements can be made.
+
+
+
+### 🔗 Link
+
+
+ Click on the link to see the code on GitHub + Documentation available : https://github.com/LucasOtw/Sudoku_Game
+
