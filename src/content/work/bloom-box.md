@@ -26,9 +26,9 @@ The application is still in development but accessible on GitHub.
 
  
 
-### ⏎ Feedback (Application in development)
+### ⏎ Feedback 
 
-Do not hesitate to send feedback by email if you encounter bugs or if you think that improvements can be made
+(Application in development). Do not hesitate to send feedback by email if you encounter bugs or if you think that improvements can be made
 
 
 ### 🔗 Link
