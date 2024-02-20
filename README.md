@@ -1,30 +1,45 @@
-# Astro Starter Kit: Portfolio
+# Projet DoThings - Application de ToDoList 
 
-```
-npm create astro@latest -- --template portfolio
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
+Ce projet, réalisé dans le personnel, vise à offrir une expérience utilisateur améliorée à travers la nouvelle app de ToDoList.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Aperçu du Projet
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+DoThings est une app de ToDoList permettant de réaliser des tâches tout au long de la journée et de rester organisé.
 
-## 🧞 Commands
+## Équipe de Développement
 
-All commands are run from the root of the project, from a terminal:
+Le projet DoThings a été réalisé par une équipe de 1 développeur :
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+- [Lucas](https://github.com/LucasOtw)
+-
 
-## 👀 Want to learn more?
+## Technologies Utilisées
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Le projet a été développé en utilisant les technologies suivantes :
+- React-Native : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="15" height="15"/> React
+- TypeScript : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="15" height="15"/> TypeScript
+- JavaScript : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="15" height="15"/> JavaScript
+
+
+
+
+## Contribution au Projet
+
+Si vous souhaitez contribuer à DoThings, n'hésitez pas à :
+- Cloner le projet
+- Créer une branche pour votre fonctionnalité (`git checkout -b fonctionnalite/nom`)
+- Commiter vos modifications (`git commit -m 'Ajout de fonctionnalité'`)
+- Pusher sur la branche (`git push origin fonctionnalite/nom`)
+- Créer une Pull Request
+
+Votre contribution est la bienvenue !
+
+## Comment Utiliser
+
+Pour utiliser DoThings, vous pouvez :
+- Attendre que l'application soit disponible sur l'AppStore ou le PlayStore
+
+## Licences
+
+Ce projet est open-source et ne génère pas de profits
