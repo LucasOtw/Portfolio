@@ -12,7 +12,7 @@ DoThings est une app de ToDoList permettant de réaliser des tâches tout au lon
 Le projet DoThings a été réalisé par une équipe de 1 développeur :
 
 - [Lucas](https://github.com/LucasOtw)
--
+
 
 ## Technologies Utilisées
 
