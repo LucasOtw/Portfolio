@@ -1,14 +1,14 @@
 ---
-title: Coming Soon
-publishDate: 2020-03-04 00:00:00
-img: /assets/stock-4.jpg
+title: Sudoku Game 
+publishDate: 2024-01-04 00:00:00
+img: /assets/sudoku.jpeg
 img_alt: Nothing
 description: |
-   New product coming soon
+   As part of an IUT project, I developed an interactive C sudoku allowing the player to interact and play sudoku.
 tags:
-  - Coming Soon
-  - Coming Soon
-  - Coming Soon
+  - C  
+  - Figma
+  - Doxygen
 ---
 
 Only a few months left before discovering the new projects!
