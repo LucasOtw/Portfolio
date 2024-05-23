@@ -4,30 +4,29 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Logo of swift
 description: |
-  New application to see what is the weather with your location
+  Nouvelle application pour voir quelle est la météo avec votre position
 tags:
   - Design
   - Dev
   - Api
 ---
 
-## 🎉 New Application
+## 🎉 Nouvelle Application
 
 > 
 
-Discover a new way to stay connected with the world around you with our innovative weather app, powered by unparalleled accuracy and an exceptional user experience. Whether you're an outdoor enthusiast, a seasoned traveler, or just curious about current conditions, our location-based weather app is designed to meet all your needs.
+Découvrez une nouvelle façon de rester connecté avec le monde qui vous entoure grâce à notre application météo innovante, dotée d'une précision inégalée et d'une expérience utilisateur exceptionnelle. Que vous soyez un passionné de plein air, un voyageur chevronné ou simplement curieux de connaître les conditions actuelles, notre application météo géolocalisée est conçue pour répondre à tous vos besoins.
 
  
 
 ### ⏎ Feedback
 
-Do not hesitate to send feedback by email if you encounter bugs or if you think that improvements can be made
+N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées
+
+### 🔗 Lien
 
 
-### 🔗 Link
-
-
- Click on the link to see the code on GitHub : https://github.com/LucasOtw/portfolio1
+ Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/portfolio1
 
 
 
