@@ -4,7 +4,7 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/Dothings.png
 img_alt: logo of DoThings App
 description: |
-  Todolist application with a new interface and developed with react native
+ Application Todolist avec une nouvelle interface et développée avec React Native
 tags:
   - React Native
   - Type-Script
@@ -12,13 +12,13 @@ tags:
   - Firebase
 ---
 
-## 🎉 New Application
+## 🎉 Nouvelle Application
 
 > 
 
-The new to do list app compatible with Android/ios. A new innovative interface to stay focused on the really important things. Ability to create groups of spots as well as individual spots. A progress gauge is also available at any time during the day.
+La nouvelle application de liste de tâches compatible avec Android/ios. Une nouvelle interface innovante pour rester concentré sur les choses vraiment importantes. Possibilité de créer des groupes de spots ainsi que des spots individuels. Une jauge de progression est également disponible à tout moment de la journée.
 
-The application is still in development but accessible on GitHub.
+L'application est encore en développement mais accessible sur GitHub.
 
 
 
@@ -27,13 +27,12 @@ The application is still in development but accessible on GitHub.
 
 ### ⏎ Feedback 
 
-(Application in development). Do not hesitate to send feedback by email if you encounter bugs or if you think that improvements can be made
+(Application en développement). N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées
+
+### 🔗 Lien
 
 
-### 🔗 Link
-
-
- Click on the link to see the code on GitHub : https://github.com/LucasOtw/DoThings
+Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/DoThings
 
 
 
