@@ -4,29 +4,26 @@ publishDate: 2024-01-04 00:00:00
 img: /assets/sudoku.jpeg
 img_alt: Picture of a sudoku game
 description: |
-   As part of an IUT project, I developed an interactive C sudoku allowing the player to interact and play sudoku.
+Dans le cadre d'un projet IUT, j'ai développé un sudoku interactif en C permettant au joueur d'interagir et de jouer au sudoku.
 tags:
   - C  
   - Figma
   - Doxygen
 ---
 
-## 🎉 New Game
+## 🎉 Nouveau Jeu
 
 > 
 
-Discover a brand new sudoku game in C available for everyone to kill time in transport or just because you are a sudkou master. The project was developed in several stages, including a mock-up, generation of documentation and the carrying out of unit tests.
-
+Découvrez un tout nouveau jeu de sudoku en C accessible à tous pour tuer le temps dans les transports ou tout simplement parce que vous êtes un maître du sudkou. Le projet a été développé en plusieurs étapes, dont une maquette, la génération de la documentation et la réalisation de tests unitaires.
  
 
 ### ⏎ Feedback
 
-Do not hesitate to send feedback by email if you encounter bugs or if you think that improvements can be made.
+N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées.
 
 
+### 🔗 Lien
 
-### 🔗 Link
 
-
- Click on the link to see the code on GitHub + Documentation available : https://github.com/LucasOtw/Sudoku_Game
-
+Cliquez sur le lien pour voir le code sur GitHub + Documentation disponible : https://github.com/LucasOtw/Sudoku_Game
