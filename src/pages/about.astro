@@ -20,6 +20,7 @@ import Hero from '../components/Hero.astro';
 				/>
 			</Hero>
 
+			
 			<section>
 				<h2 class="section-title">Education</h2>
 				<div class="content">
@@ -30,16 +31,16 @@ import Hero from '../components/Hero.astro';
 			<section>
 				<h2 class="section-title">Skills</h2>
 				<div class="content">
-					<p>Connaissance rapide de Dart et de Flutter.
+					<p>Connaissance rapide de Dart  et de Flutter.
 						 Développement d'une application en Swift.
 						 Connaissance partielle du logiciel "Figma".
-						 Utilisation du HTML, du CSS et du framework Astro.
+						 Utilisation du HTML, du Css et du framework Astro.
 						 J'ai déjà utilisé React-Native pour créer une application ToDoList.
-						 Désir d’apprendre React et TypeScript.
+						 Désir d’apprendre React et Type Script.
 					</p>
 				</div>
 			</section>
-            <section>
+                        <section>
 				<h2 class="section-title">Code Source</h2>
 				<div class="content">
 					<p>Si vous souhaitez voir le code source de mon site Web, cliquez sur mon profil Github dans la barre de menu.
@@ -47,13 +48,79 @@ import Hero from '../components/Hero.astro';
 					</p>
 				</div>
 			</section>
-            <section>
-                <h2 class="section-title">Télécharger mon CV</h2>
-                <div class="content">
-                    <a href="/path/to/your/cv.pdf" download="Lucas_Torres_CV.pdf" class="download-button">Télécharger mon CV</a>
-                </div>
-            </section>
-		</main>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+</main>
+
 		<ContactCTA />
 	</div>
 </BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style> 
