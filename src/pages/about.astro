@@ -114,6 +114,23 @@ import Hero from '../components/Hero.astro';
 		text-decoration-color: currentColor;
 	}
 
+	.download-button {
+		display: inline-block;
+		padding: 15px 30px;
+		font-size: 18px;
+		color: #fff;
+		background-color: red;
+		border: none;
+		border-radius: 5px;
+		text-decoration: none;
+		cursor: pointer;
+		transition: background-color 0.3s ease;
+	}
+
+	.download-button:hover {
+		background-color: darkred;
+	}
+
 	@media (min-width: 50em) {
 		.about {
 			display: grid;
@@ -129,4 +146,4 @@ import Hero from '../components/Hero.astro';
 			font-size: var(--text-lg);
 		}
 	}
-</style> 
+</style>
