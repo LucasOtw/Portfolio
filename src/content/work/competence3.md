@@ -1,7 +1,7 @@
 ---
 title: Compétence 3
 publishDate: 2019-12-01 00:00:00
-img: /assets/Dothings.png
+img: /assets/Computer Network T.jpg
 img_alt: logo of DoThings App
 description: |
  Administrer des systèmes complexes
