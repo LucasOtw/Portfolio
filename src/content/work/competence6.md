@@ -17,7 +17,7 @@ tags:
 6) Travailler et raisonner en équipe
 > 
 
-Au cours de ce projet, nosu avons du choisir une grosse entreprise et expliquer sous la forme d'une soutenance les éléments qui constituaient cette dermère.
+Au cours de ce projet, nous avons du choisir une grosse entreprise et expliquer sous la forme d'une soutenance les éléments qui constituaient cette dernière.
 
 Le PDF de la soutenance est disponible via le lien ci dessous
 
