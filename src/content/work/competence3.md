@@ -18,8 +18,8 @@ tags:
 3) Administrer des systèmes complexes
 > 
 
-Durant cette sae, nous avons appris à administrer des systemes réseaux à l'aides de machines virtuelles et de scripts
-Nous avons également apris l'un des points les plus important en informatique "l'administration".
+Durant cette sae, nous avons appris à administrer des systèmes réseaux à l'aide de machines virtuelles et de scripts.
+Nous avons également appris l'un des points les plus important en informatique "l'administration".
 
 Le compte rendu est disponible via le lien ci-dessous (GitHub).
 
