@@ -1,39 +1,36 @@
 ---
-title: Compétence 3
-publishDate: 2023-10-02 19:23:00
-img: /assets/StreamingSite.png
-img_alt: Picture of our website
+title: Compétence 2
+publishDate: 2019-12-01 00:00:00
+img: /assets/Dothings.png
+img_alt: logo of DoThings App
 description: |
-  Administration de systemes réseaux avec l'aide de linux et d'une machine virtuelle.
+ Programme pour résoudre le problème des 8 reines.
 tags:
-  - PHP
-  - MYSQL
-  - PGSQL
-  - Linux
-  - VMWare
+  - Python
+  - Github
+  - Outils Fondamentaux
 ---
 
+## 🎉 Compétence 2
 
-## 🎉 Compétence 3
-
-3) Administrer des systèmes complexes
+2) Optimisation d'applications
 > 
 
-Au cours de cette SAE, nous avons appris à administrer des systemes réseaux avec l'aide de scripts, de machine virtuelle ainsi que du language sql.
-Cela nous a permis de découvrir un aspect important du métier d'informaticien, "ADMINISTRATION".
+L'enjeux était de comprendre les algorithmes d'explorations afin de résoudre de manière automatisé le problème des 8 reines. Ensuite on pouvait également proposer la modélisation de différents graphes.
 
- 
+Le programme est fini est fonctionnel. Il peut être tester sur mon GitHub.
 
-### ⏎ Feedback
 
-N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées.
 
+
+### ⏎ Feedback 
+
+N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées
 
 ### 🔗 Lien
 
-Cliquez sur le lien pour voir le code sur GitHub : (Le code est privé, car il utilise des outils qui sont soumis à des clauses de confidentialités).
- 
 
+Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/SAE2.02---Queens
 
 
 
