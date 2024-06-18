@@ -12,8 +12,9 @@ tags:
   - Firebase
 ---
 
-## 🎉 Nouvelle Application
+## 🎉 Compétence 2
 
+2) Optimisation d'applications
 > 
 
 La nouvelle application de liste de tâches compatible avec Android/ios. Une nouvelle interface innovante pour rester concentré sur les choses vraiment importantes. Possibilité de créer des groupes de spots ainsi que des spots individuels. Une jauge de progression est également disponible à tout moment de la journée.
