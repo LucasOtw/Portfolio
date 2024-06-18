@@ -1,15 +1,14 @@
 ---
-title: DoThings
+title: Compétence 2
 publishDate: 2019-12-01 00:00:00
 img: /assets/Dothings.png
 img_alt: logo of DoThings App
 description: |
- Application Todolist avec une nouvelle interface et développée avec React Native
+ Programme pour résoudre le problème des 8 reines.
 tags:
-  - React Native
-  - Type-Script
-  - Figma
-  - Firebase
+  - Python
+  - Github
+  - Outils Fondamentaux
 ---
 
 ## 🎉 Compétence 2
@@ -17,23 +16,22 @@ tags:
 2) Optimisation d'applications
 > 
 
-La nouvelle application de liste de tâches compatible avec Android/ios. Une nouvelle interface innovante pour rester concentré sur les choses vraiment importantes. Possibilité de créer des groupes de spots ainsi que des spots individuels. Une jauge de progression est également disponible à tout moment de la journée.
+L'enjeux était de comprendre les algorithmes d'explorations afin de résoudre de manière automatisé le problème des 8 reines. Ensuite on pouvait également proposer la modélisation de différents graphes.
 
-L'application est encore en développement mais accessible sur GitHub.
-
-
+Le programme est fini est fonctionnel. Il peut être tester sur mon GitHub.
 
 
- 
+
 
 ### ⏎ Feedback 
 
-(Application en développement). N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées
+N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées
 
 ### 🔗 Lien
 
 
-Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/DoThings
+Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/SAE2.02---Queens
+
 
 
 
