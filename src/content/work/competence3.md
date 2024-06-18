@@ -15,7 +15,7 @@ tags:
 
 ## 🎉 Compétence 3
 
-2) Administrer des systèmes complexes
+3) Administrer des systèmes complexes
 > 
 
 Durant cette sae, nous avons appris à administrer des systemes réseaux à l'aides de machines virtuelles et de scripts
