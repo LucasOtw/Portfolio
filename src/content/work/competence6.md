@@ -7,7 +7,7 @@ description: |
  Travailler et raisonner en équipe
 tags:
   - RSE
-  - TRELLO
+  - Trello
   - Google Search
   - Documentation légal
 ---
@@ -17,16 +17,16 @@ tags:
 6) Travailler et raisonner en équipe
 > 
 
-L'enjeux était de comprendre les algorithmes d'explorations afin de résoudre de manière automatisé le problème des 8 reines. Ensuite on pouvait également proposer la modélisation de différents graphes.
+Au cours de ce projet, nosu avons du choisir une grosse entreprise et expliquer sous la forme d'une soutenance les éléments qui constituaient cette dermère.
 
-Le programme est fini est fonctionnel. Il peut être tester sur mon GitHub.
+Le PDF de la soutenance est disponible via le lien ci dessous
 
 
 
 
 ### ⏎ Feedback 
 
-N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées
+N'hésitez pas à faire part de vos retours par email si des améliorations peuvent être apportées
 
 ### 🔗 Lien
 
