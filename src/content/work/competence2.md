@@ -1,7 +1,7 @@
 ---
 title: Compétence 2
 publishDate: 2019-12-01 00:00:00
-img: /assets/Dothings.png
+img: /assets/Chess pieces King Queen.jpg
 img_alt: logo of DoThings App
 description: |
  Optimisation d'applications
