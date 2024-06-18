@@ -13,7 +13,7 @@ tags:
 
 ## 🎉 Compétence 2
 
-2) Optimisation d'applications
+6) Optimisation d'applications
 > 
 
 L'enjeux était de comprendre les algorithmes d'explorations afin de résoudre de manière automatisé le problème des 8 reines. Ensuite on pouvait également proposer la modélisation de différents graphes.
