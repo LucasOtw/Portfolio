@@ -1,5 +1,5 @@
 ---
-title: Administrer des systèmes complexes
+title: Compétence 3
 publishDate: 2023-10-02 19:23:00
 img: /assets/StreamingSite.png
 img_alt: Picture of our website
