@@ -1,5 +1,5 @@
 ---
-title: Compétence 2
+title: Compétence 4
 publishDate: 2019-12-01 00:00:00
 img: /assets/Dothings.png
 img_alt: logo of DoThings App
