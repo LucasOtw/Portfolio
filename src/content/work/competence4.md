@@ -14,7 +14,7 @@ tags:
 
 ## 🎉 Compétence 4
 
-2) Gérer des données de l’information
+4) Gérer des données de l’information
    
 > 
 
