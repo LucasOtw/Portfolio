@@ -11,7 +11,7 @@ tags:
   - Doxygen
 ---
 
-## 🎉 Compétence 1 :
+## 🎉 Compétence 1 
 
 1) Développer des applications informatiques simples
 
