@@ -4,7 +4,7 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/Dothings.png
 img_alt: logo of DoThings App
 description: |
- Le but de ce projet était de concevoir et développer un site web répondant aux besoins d'un client.
+ Conduire un projet
 tags:
   - HTML
   - CSS
