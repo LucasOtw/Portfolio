@@ -11,7 +11,7 @@ tags:
   - Doxygen
 ---
 
-## 🎉 Compétence 1 : Développer des applications informatiques simples
+## 🎉 Développer des applications informatiques simples
 
 Découvrez un tout nouveau jeu de sudoku en C accessible à tous pour tuer le temps dans les transports ou tout simplement parce que vous êtes un maître du sudoku. Le projet a été développé en plusieurs étapes, dont une maquette, la génération de la documentation et la réalisation de tests unitaires.
 
