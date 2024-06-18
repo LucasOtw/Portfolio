@@ -1,32 +1,41 @@
 ---
-title: Weather App
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Logo of swift
+title: Compétence 3
+publishDate: 2023-10-02 19:23:00
+img: /assets/StreamingSite.png
+img_alt: Picture of our website
 description: |
-  Nouvelle application pour voir quelle est la météo avec votre position
+  Administration de systemes réseaux avec l'aide de linux et d'une machine virtuelle.
 tags:
-  - Design
-  - Dev
-  - Api
+  - PHP
+  - MYSQL
+  - PGSQL
+  - Linux
+  - VMWare
 ---
 
-## 🎉 Nouvelle Application
 
+## 🎉 Compétence 3
+
+3) Administrer des systèmes complexes
 > 
 
-Découvrez une nouvelle façon de rester connecté avec le monde qui vous entoure grâce à notre application météo innovante, dotée d'une précision inégalée et d'une expérience utilisateur exceptionnelle. Que vous soyez un passionné de plein air, un voyageur chevronné ou simplement curieux de connaître les conditions actuelles, notre application météo géolocalisée est conçue pour répondre à tous vos besoins.
+Au cours de cette SAE, nous avons appris à administrer des systemes réseaux avec l'aide de scripts, de machine virtuelle ainsi que du language sql.
+Cela nous a permis de découvrir un aspect important du métier d'informaticien, "ADMINISTRATION".
 
  
 
 ### ⏎ Feedback
 
-N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées
+N'hésitez pas à faire part de vos retours par email si vous rencontrez des bugs ou si vous pensez que des améliorations peuvent être apportées.
+
 
 ### 🔗 Lien
 
+Cliquez sur le lien pour voir le code sur GitHub : (Le code est privé, car il utilise des outils qui sont soumis à des clauses de confidentialités).
+ 
 
- Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/portfolio1
+
+
 
 
 
