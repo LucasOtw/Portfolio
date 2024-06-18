@@ -1,7 +1,7 @@
 ---
 title: Compétence 6
 publishDate: 2019-12-01 00:00:00
-img: /assets/Dothings.png
+img: /assets/Heineken Message in a bottle.jpg
 img_alt: logo of DoThings App
 description: |
  Travailler et raisonner en équipe
