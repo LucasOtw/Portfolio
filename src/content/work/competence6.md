@@ -4,16 +4,17 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/Dothings.png
 img_alt: logo of DoThings App
 description: |
- Programme pour résoudre le problème des 8 reines.
+ Travailler et raisonner en équipe
 tags:
-  - Python
-  - Github
-  - Outils Fondamentaux
+  - RSE
+  - TRELLO
+  - Google Search
+  - Documentation légal
 ---
 
-## 🎉 Compétence 2
+## 🎉 Compétence 6
 
-6) Optimisation d'applications
+6) Travailler et raisonner en équipe
 > 
 
 L'enjeux était de comprendre les algorithmes d'explorations afin de résoudre de manière automatisé le problème des 8 reines. Ensuite on pouvait également proposer la modélisation de différents graphes.
