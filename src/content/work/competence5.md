@@ -17,7 +17,7 @@ tags:
 5) Conduire un projet
 > 
 
-Nous avons du créer un site web de streaming pour répondre au besoin d'un client. Nous avons appris à utiliser plusieurs outils comme FIgma pour le maquettage ainsi que GitHub pour partager notre code au sein de l'équipe.
+Nous avons du créer un site web de streaming pour répondre au besoin d'un client. Nous avons appris à utiliser plusieurs outils comme Figma pour le maquettage ainsi que GitHub pour partager notre code au sein de l'équipe.
 
 Le site est fini est fonctionnel. Il peut être tester sur mon GitHub ou via un lien.
 
