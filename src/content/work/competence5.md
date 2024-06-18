@@ -33,7 +33,7 @@ N'hésitez pas à faire part de vos retours par email si vous rencontrez des bug
 
 Cliquez sur le lien pour voir le code sur GitHub : (https://github.com/LucasOtw/SAE-1.05-Thabas-Kho)
 
-Lien : (https://github.com/LucasOtw/SAE-1.05-Thabas-Kho](https://thabaskho.vercel.app/)
+Lien :(https://thabaskho.vercel.app/)
 
 
 
