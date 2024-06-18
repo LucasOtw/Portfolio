@@ -14,7 +14,7 @@ tags:
 
 ## 🎉 Compétence 5
 
-2) Conduire un projet
+5) Conduire un projet
 > 
 
 Nous avons du créer un site web de streaming pour répondre au besoin d'un client. Nous avons appris à utiliser plusieurs outils comme FIgma pour le maquettage ainsi que GitHub pour partager notre code au sein de l'équipe.
