@@ -20,16 +20,24 @@ import Hero from '../components/Hero.astro';
 				/>
 			</Hero>
 
+			
 			<section>
 				<h2 class="section-title">Education</h2>
 				<div class="content">
-					<p>Obtention d'un baccalauréat STI2D mention Bien & DUT informatique 2023 - jusqu'à maintenant.</p>
+					<p>Obtention d'un baccalauréat STI2D mention Bien & DUT informatique 2023 - jusqu'à maintenant.
+					</p>
 				</div>
 			</section>
 			<section>
 				<h2 class="section-title">Skills</h2>
 				<div class="content">
-					<p>Connaissance rapide de Dart et de Flutter. Développement d'une application en Swift. Connaissance partielle du logiciel "Figma". Utilisation du HTML, du CSS et du framework Astro. J'ai déjà utilisé React-Native pour créer une application ToDoList. Désir d’apprendre React et Type Script.</p>
+					<p>Connaissance rapide de Dart et de Flutter.
+						 Développement d'une application en Swift.
+						 Connaissance partielle du logiciel "Figma".
+						 Utilisation du HTML, du CSS et du framework Astro.
+						 J'ai déjà utilisé React-Native pour créer une application ToDoList.
+						 Désir d’apprendre React et Type Script.
+					</p>
 				</div>
 			</section>
             <section>
@@ -44,16 +52,14 @@ import Hero from '../components/Hero.astro';
                     <a href="/assets/CV_Torres.pdf" download="Lucas_Torres_CV.pdf" class="download-button">Télécharger mon CV</a>
                 </div>
             </section>
+            <section>
+                <h2 class="section-title">Programme National</h2>
+                <div class="content">
+                    <p>Pour en savoir plus sur le programme national du BUT Informatique, cliquez sur le lien ci-dessous :</p>
+                    <a href="https://iut-lannion.univ-rennes.fr/informatique" target="_blank" class="download-button">Programme National du BUT Informatique</a>
+                </div>
+            </section>
 		</main>
-
-        <!-- New section for the link to the national program -->
-        <div class="link-section">
-            <h2 class="section-title">Programme National</h2>
-            <div class="content">
-                <p>Pour en savoir plus sur le programme national du BUT Informatique, cliquez sur le lien ci-dessous :</p>
-                <a href="https://iut-lannion.univ-rennes.fr/informatique" target="_blank" class="download-button">Programme National du BUT Informatique</a>
-            </div>
-        </div>
 
 		<ContactCTA />
 	</div>
@@ -114,10 +120,6 @@ import Hero from '../components/Hero.astro';
 
 	.download-button:hover {
 		background-color: darkred;
-	}
-
-	.link-section {
-		margin-top: 3rem;
 	}
 
 	@media (min-width: 50em) {
