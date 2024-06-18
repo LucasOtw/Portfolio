@@ -4,21 +4,23 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/Dothings.png
 img_alt: logo of DoThings App
 description: |
- Programme pour résoudre le problème des 8 reines.
+ Gérer des données de l’information
 tags:
-  - Python
-  - Github
-  - Outils Fondamentaux
+  - SQL
+  - MYSQL/Workbench
+  - PG/SQL
+  - BDD
 ---
 
-## 🎉 Compétence 2
+## 🎉 Compétence 4
 
-2) Optimisation d'applications
+2) Gérer des données de l’information
+   
 > 
 
-L'enjeux était de comprendre les algorithmes d'explorations afin de résoudre de manière automatisé le problème des 8 reines. Ensuite on pouvait également proposer la modélisation de différents graphes.
+Le but du projet était de modéliser une partie du Programme National du BUT informatique en créant un schéma de base de données (BDD) correspondant.
 
-Le programme est fini est fonctionnel. Il peut être tester sur mon GitHub.
+Le programme est fini est fonctionnel. 
 
 
 
@@ -30,7 +32,7 @@ N'hésitez pas à faire part de vos retours par email si vous rencontrez des bug
 ### 🔗 Lien
 
 
-Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/SAE2.02---Queens
+Cliquez sur le lien pour voir le code sur GitHub : (Pas disponible)
 
 
 
