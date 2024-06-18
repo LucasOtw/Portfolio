@@ -1,24 +1,26 @@
 ---
-title: Tabas’Kho
+title: Administrer des systèmes complexes
 publishDate: 2023-10-02 19:23:00
 img: /assets/StreamingSite.png
 img_alt: Picture of our website
 description: |
-  Nous avons créé un site de streaming local nous permettant de travailler sur différents aspects d'un site internet tels que l'interface, l'ergonomie, la mise en page/design, l'UX/UI ainsi que la qualité et le partage de code.
+  Administration de systemes réseaux avec l'aide de linux et d'une machine virtuelle.
 tags:
-  - Html
-  - Css
-  - Figma
-  - JavaScript
-  - Vercel
+  - PHP
+  - MYSQL
+  - PGSQL
+  - Linux
+  - VMWare
 ---
 
 
-## 🎉 Nouveau Site Web
+## 🎉 Compétence 3
 
+3) Administrer des systèmes complexes
 > 
 
-Découvrez le nouveau site de streaming made in Lannion avec une nouvelle expérience de visionnage de vidéos ainsi qu'une interface claire et intuitive. Le site vous permet également d'effectuer diverses recherches de contenu ainsi que d'avoir accès aux coulisses et aux coulisses. (Ce projet est faux et est réalisé à des fins pédagogiques)
+Au cours de cette SAE, nous avons appris à administrer des systemes réseaux avec l'aide de scripts, de machine virtuelle ainsi que du language sql.
+Cela nous a permis de découvrir un aspect important du métier d'informaticien, "ADMINISTRATION".
 
  
 
@@ -29,9 +31,9 @@ N'hésitez pas à faire part de vos retours par email si vous rencontrez des bug
 
 ### 🔗 Lien
 
-Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/SAE-1.05-Thabas-Kho
+Cliquez sur le lien pour voir le code sur GitHub : (Le code est privé, car il utilise des outils qui sont soumis à des clauses de confidentialités).
  
-Le site est également disponible en ligne : https://thabaskho.vercel.app
+
 
 
 
