@@ -31,7 +31,7 @@ N'hésitez pas à faire part de vos retours par email si vous rencontrez des bug
 ### 🔗 Lien
 
 
-Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/SAE2.02---Queens
+Cliquez sur le lien pour voir le code sur GitHub ainis que notre compte rendu : https://github.com/LucasOtw/SAE2.02---Queens
 
 
 
