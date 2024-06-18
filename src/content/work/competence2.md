@@ -4,11 +4,12 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/Dothings.png
 img_alt: logo of DoThings App
 description: |
- Programme pour résoudre le problème des 8 reines.
+ Optimisation d'applications
 tags:
   - Python
   - Github
   - Outils Fondamentaux
+  - Graphes
 ---
 
 ## 🎉 Compétence 2
