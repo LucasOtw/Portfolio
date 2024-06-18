@@ -4,21 +4,22 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/Dothings.png
 img_alt: logo of DoThings App
 description: |
- Programme pour résoudre le problème des 8 reines.
+ Le but de ce projet était de concevoir et développer un site web répondant aux besoins d'un client.
 tags:
-  - Python
-  - Github
-  - Outils Fondamentaux
+  - HTML
+  - CSS
+  - JavaScript
+  - Figma
 ---
 
-## 🎉 Compétence 2
+## 🎉 Compétence 5
 
-2) Optimisation d'applications
+2) Conduire un projet
 > 
 
-L'enjeux était de comprendre les algorithmes d'explorations afin de résoudre de manière automatisé le problème des 8 reines. Ensuite on pouvait également proposer la modélisation de différents graphes.
+Nous avons du créer un site web de streaming pour répondre au besoin d'un client. Nous avons appris à utiliser plusieurs outils comme FIgma pour le maquettage ainsi que GitHub pour partager notre code au sein de l'équipe.
 
-Le programme est fini est fonctionnel. Il peut être tester sur mon GitHub.
+Le site est fini est fonctionnel. Il peut être tester sur mon GitHub ou via un lien.
 
 
 
@@ -30,8 +31,9 @@ N'hésitez pas à faire part de vos retours par email si vous rencontrez des bug
 ### 🔗 Lien
 
 
-Cliquez sur le lien pour voir le code sur GitHub : https://github.com/LucasOtw/SAE2.02---Queens
+Cliquez sur le lien pour voir le code sur GitHub : (https://github.com/LucasOtw/SAE-1.05-Thabas-Kho)
 
+Lien : (https://github.com/LucasOtw/SAE-1.05-Thabas-Kho)
 
 
 
