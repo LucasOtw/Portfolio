@@ -1,7 +1,7 @@
 ---
 title: Compétence 4
 publishDate: 2019-12-01 00:00:00
-img: /assets/Dothings.png
+img: /assets/Database Glossary.png
 img_alt: logo of DoThings App
 description: |
  Gérer des données de l’information
