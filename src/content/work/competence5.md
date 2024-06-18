@@ -1,7 +1,7 @@
 ---
 title: Compétence 5
 publishDate: 2019-12-01 00:00:00
-img: /assets/Dothings.png
+img: /assets/StreamingSite.png
 img_alt: logo of DoThings App
 description: |
  Conduire un projet
