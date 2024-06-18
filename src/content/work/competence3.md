@@ -4,21 +4,24 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/Dothings.png
 img_alt: logo of DoThings App
 description: |
- Programme pour résoudre le problème des 8 reines.
+ Administrer des systèmes complexes
 tags:
-  - Python
-  - Github
-  - Outils Fondamentaux
+  - SQL
+  - PGSQL
+  - PHP
+  - VMWARE
+  - Linux
 ---
 
-## 🎉 Compétence 2
+## 🎉 Compétence 3
 
-2) Optimisation d'applications
+2) Administrer des systèmes complexes
 > 
 
-L'enjeux était de comprendre les algorithmes d'explorations afin de résoudre de manière automatisé le problème des 8 reines. Ensuite on pouvait également proposer la modélisation de différents graphes.
+Durant cette sae, nous avons appris à administrer des systemes réseaux à l'aides de machines virtuelles et de scripts
+Nous avons également apris l'un des points les plus important en informatique "l'administration".
 
-Le programme est fini est fonctionnel. Il peut être tester sur mon GitHub.
+Le compte rendu est disponible via le lien ci-dessous (GitHub).
 
 
 
